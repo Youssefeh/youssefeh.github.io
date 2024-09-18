@@ -6,3 +6,11 @@ This repository clones https://github.com/varadbhogayata/varadbhogayata.github.i
 ### Activity 1
 Screenshot of Initial appearance of the Repo:
 ![Screenshot of initial Repo](https://github.com/user-attachments/assets/2ae0fc24-9b3b-4e9d-b4ab-cdede190a7d4)
+
+### Activity 2
+Screenshot of Deployed site with my personal information
+![Screenshot from 2024-09-18 13-03-14](https://github.com/user-attachments/assets/d6e83f9f-198a-409b-9dfb-22c329331cef)
+
+### Actvity 3
+Screenshot of colour theme change to Blue
+![Screenshot from 2024-09-18 13-03-29](https://github.com/user-attachments/assets/1f7cf98e-1f2a-456a-b30d-70137d1a1380)
