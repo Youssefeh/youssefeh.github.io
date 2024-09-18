@@ -14,3 +14,7 @@ Screenshot of Deployed site with my personal information
 ### Actvity 3
 Screenshot of colour theme change to Blue
 ![Screenshot from 2024-09-18 13-03-29](https://github.com/user-attachments/assets/1f7cf98e-1f2a-456a-b30d-70137d1a1380)
+
+### Activity 4
+Screenshot of embedding map into site
+![Screenshot from 2024-09-18 13-19-51](https://github.com/user-attachments/assets/34cb9222-d85e-40a6-8d8d-bc19dcf8e880)
